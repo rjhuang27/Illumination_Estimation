@@ -65,6 +65,8 @@ Lighting estimation aims to recover illumination from a single image with limite
   * V. Gkitsas, N. Zioulis, F. Alvarez, D. Zarpalas and P. Daras,  "Deep Lighting Environment Map Estimation from Spherical Panoramas," in       2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), Seattle, WA, USA, 2020 pp. 2719-2728.
 * **2019** [[pdf]](https://arxiv.org/pdf/1811.12481v2.pdf)
   * Z. Hui, A. Chakrabarti, K. Sunkavalli and A. Sankaranarayanan,  "Learning to Separate Multiple Illuminants in a Single Image," in 2019 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Long Beach, CA, USA, 2019 pp. 3775-3784.(note：是将一张图像分成照明程*度不同的两张图像)
+* **2019** [[pdf]](https://arxiv.org/pdf/1905.00824v1.pdf)
+  * Sun T, Barron J T, Tsai Y T, et al. Single image portrait relighting[J]. ACM Trans. Graph., 2019, 38(4): 79:1-79:12.
 
 
 ### Other methods
