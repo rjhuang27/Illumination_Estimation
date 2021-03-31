@@ -60,11 +60,12 @@ Lighting estimation aims to recover illumination from a single image with limite
 ### Learning-based methods
 
 * **EMLight** [[Pdf]](https://arxiv.org/pdf/2012.11116.pdf)[[code]](https://github.com/fnzhan/Illumination-Estimation)
-  * Zhan F, Zhang C, Yu Y, et al. EMLight: Lighting Estimation via Spherical Distribution Approximation[J]. arXiv preprint arXiv:2012.11116, 2020. 
+  * Zhan F, Zhang C, Yu Y, et al. EMLight: Lighting Estimation via Spherical Distribution Approximation[J]. arXiv preprint arXiv:2012.11116,     2020. 
 * **2020** [[pdf]](https://arxiv.org/pdf/2005.08000.pdf)[[code]](https://github.com/VCL3D/DeepPanoramaLighting)
   * V. Gkitsas, N. Zioulis, F. Alvarez, D. Zarpalas and P. Daras,  "Deep Lighting Environment Map Estimation from Spherical Panoramas," in       2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), Seattle, WA, USA, 2020 pp. 2719-2728.
-* ** ** [[pdf]](https://arxiv.org/pdf/1811.12481v2.pdf)
-  * Hui Z, Chakrabarti A, Sunkavalli K, et al. Learning to separate multiple illuminants in a single ima[…]
+* **2019** [[pdf]](https://arxiv.org/pdf/1811.12481v2.pdf)
+  * Z. Hui, A. Chakrabarti, K. Sunkavalli and A. Sankaranarayanan,  "Learning to Separate Multiple Illuminants in a Single Image," in 2019 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Long Beach, CA, USA, 2019 pp. 3775-3784.(note：是将一张图像分成照明程*度不同的两张图像)
+
 
 ### Other methods
 
