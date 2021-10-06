@@ -45,10 +45,10 @@ Lighting estimation aims to recover illumination from a single image with limite
 * **GLoSH** [[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_GLoSH_Global-Local_Spherical_Harmonics_for_Intrinsic_Image_Decomposition_ICCV_2019_paper.pdf)
   * Zhou H, Yu X, Jacobs D W. GLoSH: Global-Local Spherical Harmonics for Intrinsic Image Decomposition[C]//Proceedings of the IEEE International Conference on Computer Vision. 2019: 7820-7829.
   * (note:恢复全局光照信息和局部光照信息，但是包含大量的参数)
-* **NIID-Net** [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9199573&casa_token=zYE2CqXkCSIAAAAA:kW7c8OsKXQfIv3-ogk7rxTPcesapQL4-on7AuGFiwlC8I37fkyxG_VDcxSzYsiXRdPNnKJ9F8_jZ)
+* **NIID-Net** [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9199573&casa_token=zYE2CqXkCSIAAAAA:kW7c8OsKXQfIv3-ogk7rxTPcesapQL4-on7AuGFiwlC8I37fkyxG_VDcxSzYsiXRdPNnKJ9F8_jZ)[[code]](https://github.com/zju3dv/NIID-Net)
   * Luo J, Huang Z, Li Y, et al. NIID-Net: Adapting Surface Normal Knowledge for Intrinsic Image Decomposition in Indoor Scenes[J]. IEEE Transactions on Visualization and Computer Graphics, 2020, 26(12): 3434-3445.
   * (note:预测光照矢量图和本征图像)
-* **2020** [[pdf]](https://arxiv.org/pdf/1905.02722v1.pdf)
+* **2020** [[pdf]](https://arxiv.org/pdf/1905.02722v1.pdf)[[code]](https://cseweb.ucsd.edu//~viscomp/projects/CVPR20InverseIndoor/)
   * Li Z, Shafiei M, Ramamoorthi R, et al. Inverse rendering for complex indoor scenes: Shape, spatially-varying lighting and svbrdf from a single image[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 2475-2484.
   * (note:预测出双向反射分布函数和光照信息)
 * **2020** [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9090568)
@@ -64,3 +64,4 @@ Lighting estimation aims to recover illumination from a single image with limite
 
 ### dataset
 [[SAW]](http://opensurfaces.cs.cornell.edu/publications/intrinsic/)
+[[CGIntrinsics]](https://github.com/zl548/CGIntrinsics)
