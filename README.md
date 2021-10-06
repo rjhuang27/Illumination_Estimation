@@ -61,3 +61,6 @@ Lighting estimation aims to recover illumination from a single image with limite
 
 - :high_brightness: <font color='red'> **highlight!** </font>
 - :bookmark: retinex
+
+### dataset
+[[SAW]](http://opensurfaces.cs.cornell.edu/publications/intrinsic/)
